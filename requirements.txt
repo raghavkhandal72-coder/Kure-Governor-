@@ -1,0 +1,3 @@
+# KURE Governor — No external dependencies required!
+# Pure Python 3.7+ standard library only.
+# Invented by Raghav Khandal
